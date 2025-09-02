@@ -3,8 +3,6 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>♦ Hola, mi nombre es David</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
 ### 💎 &nbsp;Sobre mi
 
 💡 &nbsp;Me gusta programar y experimentar para que los usuarios tengan experiencia unica.\
