@@ -7,7 +7,7 @@
 ### 💎 &nbsp;Sobre mi
 
 💡 &nbsp;Me gusta programar y experimentar para que los usuarios tengan experiencia unica.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🎓 &nbsp;Soy estudiante del SENA y he estudiado en la institución educativa Eugenio Ferro Falla.\
 🌱 &nbsp;Estoy encaminado en aprender más sobre Inteligencia Artificial, Diseño de Sistemas, Ortografia, Idiomas y Teoria musical perfecta.\
 ✍️ &nbsp;En mis tiempos libres me gusta aprender idiomas, leer libros, estudiar musica y perfeccionar mi conocimientos de programación.\
 💬 &nbsp;No dudes en contactarme para una consulta o simplemente para una charla interesante..\
