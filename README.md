@@ -29,8 +29,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/💻%20VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/🎨%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;
 ![FL Studio](https://img.shields.io/badge/FL%20Studio-🎶-orange?style=for-the-badge&logo=flstudio&logoColor=white)
-
 &nbsp;
+![Wattpad](https://img.shields.io/badge/📖%20Wattpad-FF500A?style=for-the-badge&logo=wattpad&logoColor=white)&nbsp;
 
 
 
