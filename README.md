@@ -16,8 +16,6 @@
 
 ### 🛠 &nbsp;Programas:
 
-![Python](https://img.shields.io/badge/🐍%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/⚡%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/🎨%20Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/🌐%20HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/🎨%20CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -25,9 +23,7 @@
 ![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/💻%20VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/🎨%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;
-![FL Studio](https://img.shields.io/badge/🎶%20FL%20Studio-FF7F2A?style=for-the-badge&logo=flstudio&logoColor=white)
 ![Figma](https://img.shields.io/badge/🧩%20Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Wattpad](https://img.shields.io/badge/📖%20Wattpad-FF500A?style=for-the-badge&logo=wattpad&logoColor=white)&nbsp;
 
 
 
