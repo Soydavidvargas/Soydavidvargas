@@ -91,8 +91,3 @@ Este repositorio tiene un **propósito principalmente académico**. Los archivos
 ### 🚀 Aprender → Practicar → Crear → Mejorar
 
 > *Cada actividad es una oportunidad para aprender algo nuevo.*
-
-
-
-
-
